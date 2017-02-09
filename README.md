@@ -1,5 +1,5 @@
 # Impulse
-A modern, user friendly variation and interpretation on the popular iOS app, Flappy Bird.
+A modern, user-friendly variation and interpretation on the popular iOS app, Flappy Bird, written in Apple Swift 2.0.
 
 ## Background
 This app is intended to be an interpretation of the popular "Flappy Bird" app, but with user-adjustable settings and custom color schemes.
