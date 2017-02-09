@@ -12,7 +12,6 @@ This app is intended to be an interpretation of the popular "Flappy Bird" app, b
 
 ## License
 All source code and designs are a copyright of Lukas Romsicki and contributors.
-The source code of Impulse is free software made available under the MIT License.
 
 ## Screenshots
 <img src="/screenshots/screenshot1.png" alt="screenshot1" width="250px" />
